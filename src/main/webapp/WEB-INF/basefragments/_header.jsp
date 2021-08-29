@@ -4,7 +4,7 @@
 <%@taglib uri="http://www.springframework.org/tags" prefix="s"%>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
 	<div class="container">
-		<a class="navbar-brand" href="#">Food Delivery</a>
+		<a class="navbar-brand" href="#">Foodbox</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse"
 			data-target="#navbarResponsive" aria-controls="navbarResponsive"
 			aria-expanded="false" aria-label="Toggle navigation">

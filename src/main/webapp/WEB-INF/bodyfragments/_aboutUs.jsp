@@ -9,11 +9,24 @@
                     <div class="row">
 						<div class="col-md-7 col-sm-6">
 							<div class="about-title clearfix">
-								<h1>About <span>Appmom</span></h1>
-								<h3>Lorem ipsum dolor sit amet </h3>
-								<p class="about-paddingB">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet dolor libero, eget venenatis mauris finibus dictum. Vestibulum quis elit eget neque porttitor congue non sit amet dolor. Proin pretium purus a lorem ornare </p>
-								<p>sed lobortis pulvinar. Integer laoreet mi id eros porta euismod. Suspendisse potenti. Nulla eros mauris, convallis et sem tempus, viverra hendrerit sapien</p>
-						
+								<h1>
+							About <span>Foodbox</span>
+						</h1>
+						<p>Foodbox is a restaurant chain that delivers food items of
+							different cuisines at affordable prices.</p>
+						<p class="about-paddingB">It was established in 2014 in
+							Bengaluru, India.</p>
+							
+						<h2><span>Our Mission</span></h2>	
+						<p>"Bringing good food into your everyday. That's our mission.
+							That means we don't just deliver--we bring it, always going the
+							extra mile to make your experience memorable. <br><br>
+							And it means this is delicious food you can enjoy everyday: from vibrant foods for
+							healthy office lunches, to indulgent family-sized pizzas
+							for a romantic night in. Whatever you crave, we can
+							help."</p>
+
+
 							</div>
 						</div>
 						<div class="col-md-5 col-sm-6">
