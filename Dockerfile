@@ -1,3 +1,6 @@
-FROM tomcat:8.5.47-jdk8-openjdk
-  
-  COPY ./sample.war /usr/local/tomcat/webapps
+FROM openjdk:11-alpine
+
+COPY target/Food-Delivery-*.war/Food-Delivery.war
+
+CMD ["java","-war","/Food-Delivery.war"]
+
